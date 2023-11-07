@@ -1,0 +1,7 @@
+
+
+.img-slider-btn > *{
+    stroke: white;
+    fill: black;
+    @apply w-8 h-8
+}
